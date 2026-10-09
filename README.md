@@ -156,7 +156,7 @@ var mail='mailto:'+CFG.email;
 var data={
  about:{k:'Personal Room · Photo frame',t:'About Me',h:
   '<img class="ph" src="'+PHOTO+'" alt="Portrait of Sohan Rana">'+
-  '<p>I am a Software Engineering student at Daffodil International University in Dhaka, Bangladesh, and Co-founder &amp; COO of Honqio IT.</p>'+
+  '<p>I am a Software Engineer and Co-founder &amp; COO of Honqio IT.</p>'+
   '<p>My work sits at the intersection of <span class="b s">AI, Human-Computer Interaction, NLP and responsible technology</span>: building systems that are useful, accessible, ethical and centered on people. I learn by building, from Arduino-based IoT prototypes to Bangla NLP research.</p>'+
   '<p>I also take part in conferences, youth forums, workshops and collaborative initiatives to learn from researchers and practitioners from diverse backgrounds, and to understand how technology connects with climate action and society.</p>'+
   '<div class="kv"><span>BASED IN</span><div>Dhaka, Bangladesh</div><span>LANGUAGES</span><div>Bangla (native) · English (intermediate–advanced)</div><span>STUDYING</span><div>Software Engineering, DIU</div><span>FOCUS</span><div>AI · HCI · NLP · AI Ethics</div><span>STARTUP</span><div>Honqio IT (Co-founder &amp; COO)</div><span>ALSO INTO</span><div>Cloud, DevOps, smart agriculture, robotics</div></div>'},
